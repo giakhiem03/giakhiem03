@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giakhiem03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giakhiem03&layout=compact&theme=radical)
+![Stars](https://img.shields.io/badge/Total%20Stars-10-blue)
+![Commits](https://img.shields.io/badge/Commits-51-green)
+![Pull Requests](https://img.shields.io/badge/PRs-2-yellow)
+![Issues](https://img.shields.io/badge/Issues-0-red)
+![Contributions](https://img.shields.io/badge/Contributions-3-orange)
