@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with **optimizing machine learning models and debugging complex code**.  
 💬 Ask me about **HTML/CSS, basic Python programming, or anything about IoT sensors**.  
 📫 How to reach me: **giakhiem03@example.com** or via **[LinkedIn](https://linkedin.com/in/giakhiem03)**.  
-😄 Pronouns: **He/Him**.  
 ⚡ Fun fact: **I can code longer than I can stay awake while watching Netflix!**  
 
 
