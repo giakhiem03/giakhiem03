@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on dsadsa
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giakhiem03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giakhiem03&layout=compact&theme=radical)
-[![GitHub Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=giakhiem03&bg_color=0d1117&color=ffffff&line=ff9933&point=ff9933&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=giakhiem03&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=giakhiem03&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
