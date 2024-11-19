@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giakhiem03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giakhiem03&layout=compact&theme=radical)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=giakhiem03&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=giakhiem03&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
