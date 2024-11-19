@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on **full-stack development and AI-based projects**.  
 🌱 I’m currently learning **how to build scalable web applications and apply AI techniques in real-world projects**.  
-👯 I’m looking to collaborate on **open-source projects involving ASP.NET, Spring Boot, ReactJS, NodeJS, AI (ML/DL)**.  
-<!--🤔 I’m looking for help with **optimizing AI models for real-world deployment and learning DevOps practices**.  -->
+👯 I’m looking to collaborate on **open-source projects involving ASP.NET, Spring Boot, ReactJS, NodeJS, AI (ML/DL)**.  <!--🤔 I’m looking for help with **optimizing AI models for real-world deployment and learning DevOps practices**.  -->
 💬 Ask me about **ASP.NET, Spring Boot, ReactJS, Node.js, or AI (ML/DL)**.  
 📫 How to reach me: **giakhiem271@gmail.com**.  
 ⚡ Fun fact: **I enjoy exploring how AI can simplify everyday tasks, and I love solving complex coding challenges!**  
