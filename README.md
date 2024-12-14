@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giakhiem03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giakhiem03&layout=compact&theme=radical)
 ### Technologies & Tools
-![.NET](https://img.icons8.com/color/48/000000/dot-net.png) ![Node.js](https://img.icons8.com/color/48/000000/dot-net.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png)
-![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) ![WA](https://img.icons8.com/color/48/000000/waving-hand.png)
-![Linux](https://img.icons8.com/color/48/000000/linux.png) ![Terraform](https://img.icons8.com/color/48/000000/terraform.png)
-![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-![Azure](https://img.icons8.com/color/48/000000/azure-1.png)
+### Technologies & Tools
+![.NET](https://img.icons8.com/color/48/dot-net.png) ![Node.js](https://img.icons8.com/color/48/dot-net.png)
+![React](https://img.icons8.com/color/48/react-native.png) ![Docker](https://img.icons8.com/color/48/docker.png)
+![Kubernetes](https://img.icons8.com/color/48/kubernetes.png) ![WA](https://img.icons8.com/color/48/waving-hand.png)
+![Linux](https://img.icons8.com/color/48/linux.png) ![Terraform](https://img.icons8.com/color/48/terraform.png)
+![Jenkins](https://img.icons8.com/color/48/jenkins.png) ![AWS](https://img.icons8.com/color/48/amazon-web-services.png)
+![Azure](https://img.icons8.com/color/48/azure-1.png)
+
