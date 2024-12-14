@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 ⚡ Fun fact: **I enjoy exploring how AI can simplify everyday tasks, and I love solving complex coding challenges!**  
 
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giakhiem03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giakhiem03&layout=compact&theme=radical)
