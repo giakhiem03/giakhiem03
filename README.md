@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![HTML/CSS/JS](https://skillicons.dev/icons?i=html,css,js)
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
 ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQL Server](https://skillicons.dev/icons?i=mssql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Machine Learning](https://skillicons.dev/icons?i=ml) ![Deep Learning](https://skillicons.dev/icons?i=dl) ![Python](https://skillicons.dev/icons?i=python)
+ ![Python](https://skillicons.dev/icons?i=python)
 ![Keras](https://skillicons.dev/icons?i=keras)
 
 
