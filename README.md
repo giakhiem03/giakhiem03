@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giakhiem03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giakhiem03&layout=compact&theme=radical)
 
-
-### Technologies & Tools
-### Technologies & Tools
+### My Skills
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![React](https://skillicons.dev/icons?i=react)![.NET](https://skillicons.dev/icons?i=dotnet) 
 ![Spring Boot](https://skillicons.dev/icons?i=spring) ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
