@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 ### Technologies & Tools
 ### Technologies & Tools
-![.NET](https://skillicons.dev/icons?i=dotnet) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![React](https://skillicons.dev/icons?i=react)![.NET](https://skillicons.dev/icons?i=dotnet) 
 ![Spring Boot](https://skillicons.dev/icons?i=spring) ![Flutter](https://skillicons.dev/icons?i=flutter)
-![HTML/CSS/JS](https://skillicons.dev/icons?i=html,css,js)
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
 ![MySQL](https://skillicons.dev/icons?i=mysql)![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Python](https://skillicons.dev/icons?i=python)
