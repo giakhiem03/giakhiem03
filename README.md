@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
 ![MySQL](https://skillicons.dev/icons?i=mysql)![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Python](https://skillicons.dev/icons?i=python)
-
-
-
-
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
 
 
