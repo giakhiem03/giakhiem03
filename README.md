@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giakhiem03&layout=compact&theme=radical)
 
 ### My Skills
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![React](https://skillicons.dev/icons?i=react)![.NET](https://skillicons.dev/icons?i=dotnet) 
-![Spring Boot](https://skillicons.dev/icons?i=spring) ![Flutter](https://skillicons.dev/icons?i=flutter)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![React](https://skillicons.dev/icons?i=react)![Spring Boot](https://skillicons.dev/icons?i=spring)
+![.NET](https://skillicons.dev/icons?i=dotnet) ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
 ![MySQL](https://skillicons.dev/icons?i=mysql)![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Python](https://skillicons.dev/icons?i=python)
