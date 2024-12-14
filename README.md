@@ -16,10 +16,14 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=giakhiem03&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giakhiem03&layout=compact&theme=radical)
 
+
 ### Technologies & Tools
-![.NET](https://img.icons8.com/color/48/net-framework.png) ![React](https://img.icons8.com/color/48/react-native.png) ![Node.js](https://img.icons8.com/color/48/nodejs.png)
-![Spring Boot](https://img.icons8.com/color/48/spring-boot.png) ![Flutter](https://img.icons8.com/color/48/flutter.png)
-![HTML/CSS/JS](https://img.icons8.com/color/48/html-5.png)
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![React](https://skillicons.dev/icons?i=react)
+![Spring Boot](https://skillicons.dev/icons?i=spring)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![HTML/CSS/JS](https://skillicons.dev/icons?i=html,css,js)
 
 
 
