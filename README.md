@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giakhiem03&layout=compact&theme=radical)
 ### Technologies & Tools
 ![.NET](https://img.icons8.com/color/48/microsoft-net.png) ![React](https://img.icons8.com/color/48/react-native.png) ![Node.js](https://img.icons8.com/color/48/nodejs.png)
-![Spring Boot](https://img.icons8.com/color/48/spring-boot.png) ![Flutter](https://img.icons8.com/color/48/flutter.png)
+![Spring Boot](https://img.icons8.com/color/48/spring.png) ![Flutter](https://img.icons8.com/color/48/flutter.png)
 ![HTML/CSS/JS](https://img.icons8.com/color/48/html-5.png)
+
 
 
 
