@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Spring Boot](https://skillicons.dev/icons?i=spring) ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![HTML/CSS/JS](https://skillicons.dev/icons?i=html,css,js)
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
-![MySQL](https://skillicons.dev/icons?i=mysql) ![SQL Server](https://skillicons.dev/icons?i=mssql) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![Python](https://skillicons.dev/icons?i=python)
 
 
