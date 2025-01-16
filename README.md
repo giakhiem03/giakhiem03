@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![.NET](https://skillicons.dev/icons?i=dotnet) ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp)
 ![MySQL](https://skillicons.dev/icons?i=mysql)![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Python](https://skillicons.dev/icons?i=python)
+![Python](https://skillicons.dev/icons?i=python)![Docker](https://skillicons.dev/icons?i=docker)
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)
 
 
